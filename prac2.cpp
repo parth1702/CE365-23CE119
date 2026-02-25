@@ -63,7 +63,7 @@ int main() {
 
         if (symbolIndex == -1) {
             cout << "Invalid String\n";
-            cout << "Made by Aaryan Chavda - 23CE013\n";
+            cout << "Made by Parth Prajapati - 23CE119\n";
             return 0;
         }
 
@@ -83,6 +83,7 @@ int main() {
     else
         cout << "Invalid String\n";
 
-    cout << "Made by Aaryan Chavda - 23CE013\n";
+    cout << "Made by Parth Prajapati - 23CE119\n";
     return 0;
 }
+
