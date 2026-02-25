@@ -12,25 +12,26 @@ int main() {
     
     if(len < 2){
         printf("Invalid String.\n");
-        printf("Made by Aaryan Chavda - 23CE013");
+        printf("Made by Parth Prajapati - 23CE119");
         return 0;
     }
     
     if(str1[len-2] != 'b' || str1[len-1] != 'b'){
         printf("Invalid String.\n");
-        printf("Made by Aaryan Chavda - 23CE013");
+        printf("Made by Parth Prajapati - 23CE119");
         return 0;
     }
     
     for(int i=0; i<len-2; i++){
         if(str1[i] != 'a'){
             printf("Invalid String.\n");
-            printf("Made by Aaryan Chavda - 23CE013");
+            printf("Made by Parth Prajapati - 23CE119");
             return 0;
         }
     }
 
     printf("Valid String.\n");
-    printf("Made by Aaryan Chavda - 23CE013");
+    printf("Made by Parth Prajapati - 23CE119");
     return 0;
+
 }
